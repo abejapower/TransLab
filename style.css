@@ -1,0 +1,32 @@
+.main{
+    background-color: #3d3e40;
+    color:wheat;
+}
+
+.main-btn{
+    background-color:#dddee0; 
+}
+#btn-saldo{
+    margin-top: 40%;
+    margin-bottom: 2%;
+}
+#btn-tarifa{
+    margin-bottom: 2%;
+}
+#btn-perfil{
+    margin-bottom: 2%;
+}
+#btn-qA{
+    margin-bottom: 40%;
+}
+#person{
+    width: 90%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+#person-pic{
+    background-color: #f1a63c;
+}
+.card-body{
+    background-color: #f1a63c;
+}
